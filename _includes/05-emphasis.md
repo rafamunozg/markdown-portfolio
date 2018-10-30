@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### It's important to highlight things
+
+_Whenever you try to call **atention** from someone_
+
+I didn't know I could combine both! :confused:
